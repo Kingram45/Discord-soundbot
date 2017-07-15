@@ -1,6 +1,6 @@
 {
-  "client_id": "YOUR_CLIENT/APPLICATION_ID",
-  "token": "YOUR_APP_BOT_USER_TOKEN",
+  "client_id": "335526635652644864",
+  "token": "MzM1NTI2NjM1NjUyNjQ0ODY0.DEvYJg.l97P6v5l10gTqoRUcP5gjVvaj1k",
   "extensions": [".mp3", ".wav"],
   "size": 1000000,
   "deleteMessages": false
